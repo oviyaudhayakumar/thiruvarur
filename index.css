@@ -144,8 +144,8 @@ input[type=radio]:checked ~ .option {
     width: 100%; 
     height: 100%; 
     overflow: auto; 
-    background-color: rgb(245, 238, 238); 
-    background-color: rgba(253, 247, 247, 0.993); 
+    background-color: rgb(17, 17, 17); 
+    background-color: rgba(14, 12, 12, 0.993); 
     flex-direction: column;
     align-items: center;
     justify-content: center; 
@@ -156,7 +156,7 @@ input[type=radio]:checked ~ .option {
 .modal-content-container{
     height: 20rem;
     width: 25rem;
-    background-color: rgb(241, 237, 237);
+    background-color: rgb(7, 7, 7);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -191,8 +191,12 @@ input[type=radio]:checked ~ .option {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
-
+.modal-button-container a{
+    text-decoration: none;
+    color: aliceblue;
+}
 .modal-button-container button{
     width: 10rem;
     height: 2rem;
@@ -203,6 +207,7 @@ input[type=radio]:checked ~ .option {
     font-size: 1.1rem;
     cursor: pointer;
     border-radius: 20px;
+    text-decoration: none;
 }
 .modal-button-container button:hover{
     background-color: rgb(83, 82, 82);
