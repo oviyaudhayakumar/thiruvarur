@@ -18,11 +18,11 @@ const questions = [
     },
 
     {
-        question: " The presiding deity is revered in the 7th century Saiva canonical work, the Tevaram, written in Tamil by saint poets known as the ___ and classified as Paadal Petra Sthalam. ",
-        optionA: " None ",
-        optionB: " pallavas ",
-        optionC: " nayakkas ",
-        optionD: " nayanars ",
+        question: " The presiding deity is revered in the 7th century Saiva canonical work  the Tevaram  written in Tamil by saint poets known as the ___ and classified as Paadal Petra Sthalam ",
+        optionA: "None",
+        optionB: "pallavas",
+        optionC: "nayakkas",
+        optionD: "nayanars",
         correctOption: "optionD"
     },
 
