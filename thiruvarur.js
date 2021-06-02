@@ -45,7 +45,7 @@ const questions = [
     },
 
     {
-        question: " The present masonry structure was built during the __ dynasty in the 9th century, while later expansions are attributed to Vijayanagar rulers of the Sangama Dynasty ",
+        question: " The present masonry structure was built during the __ dynasty in the 9th century  while later expansions are attributed to Vijayanagar rulers of the Sangama Dynasty ",
         optionA: " Chola ",
         optionB: " Chera ",
         optionC: " Pallava ",
