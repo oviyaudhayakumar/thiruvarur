@@ -36,7 +36,7 @@ const questions = [
     },
 
     {
-        question: " The two main shrines of the temple are for ____.  ",
+        question: " The two main shrines of the temple are for ____  ",
         optionA: " Vanmikinathar ",
         optionB: " Thyagarajar ",
         optionC: " Both A & B ",
