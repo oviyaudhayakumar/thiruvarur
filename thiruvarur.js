@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: " The temple complex covers ___ acres, and is one of the largest in India. ",
+        question: " The temple complex covers ___ acres and is one of the largest in India. ",
         optionA: " 20 ",
         optionB: " 30 ",
         optionC: " 40 ",
@@ -9,7 +9,7 @@ const questions = [
     },
 
     {
-        question: " Thyagaraja Temple is a __ temple, located in the town of  Thiruvarur in Tamil Nadu, India.",
+        question: " Thyagaraja Temple is a __ temple located in the town of  Thiruvarur in Tamil Nadu  India.",
         optionA: " Shiva ",
         optionB: " Ganesha ",
         optionC: " Muruga ",
@@ -50,7 +50,7 @@ const questions = [
         optionB: " Chera ",
         optionC: " Pallava ",
         optionD: " Nayakka ",
-        correctOption: " optionA "
+        correctOption: "optionA"
     },
 
     {
