@@ -9,7 +9,7 @@ const questions = [
     },
 
     {
-        question: " Thyagaraja Temple is a __ temple, located in the town of Thiruvarur in Tamil Nadu, India.",
+        question: " Thyagaraja Temple is a __ temple, located in the town of  Thiruvarur in Tamil Nadu, India.",
         optionA: " Shiva ",
         optionB: " Ganesha ",
         optionC: " Muruga ",
