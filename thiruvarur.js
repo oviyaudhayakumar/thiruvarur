@@ -54,7 +54,7 @@ const questions = [
     },
 
     {
-        question7: " The temple has numerous shrines, with those of ____ being the most prominent. ",
+        question: " The temple has numerous shrines, with those of ____ being the most prominent. ",
         optionA: " Veedhi Vidangar  ",
         optionB: " Both A & C  ",
         optionC: " Alliyankothai ",
